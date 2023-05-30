@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2cf2da1-3c7c-46a6-9217-fa7d393577ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignerTelaNota.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TelaNota.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TelaNota.java" afterDir="false" />
+    <list default="true" id="f2cf2da1-3c7c-46a6-9217-fa7d393577ef" name="Changes" comment="Tela Nota">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +68,30 @@
       <updated>1685145233317</updated>
       <workItem from="1685145235336" duration="331000" />
       <workItem from="1685381214676" duration="39000" />
-      <workItem from="1685381274271" duration="8942000" />
+      <workItem from="1685381274271" duration="10009000" />
     </task>
+    <task id="LOCAL-00001" summary="Tela Nota">
+      <created>1685408198806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685408198806</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tela Nota">
+      <created>1685408393523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685408393523</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tela Nota" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tela Nota" />
   </component>
 </project>
